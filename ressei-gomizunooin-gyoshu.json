@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gomizunooin-gyoshu",
  "yomi": "ごみずのおいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "江戸前期",
+  "author": "後水尾院",
+  "desc": "後水尾院の御集。寛永以後の聖廟・水無瀬宮への法楽、禁裏の月次会、詩歌合などの詠を年月日とともに題ごとに収める大部の集。"
+ },
  "editions": [
   {
    "pid": "945304",
